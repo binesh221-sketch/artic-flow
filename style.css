@@ -1,0 +1,12 @@
+
+body{
+    background:rgb(156, 234, 239) 
+}
+.navbar{color: aliceblue;}
+.btn{
+    border-radius: 50px;
+    margin: 8px;
+}
+.icon{
+    width: 100px;
+}
